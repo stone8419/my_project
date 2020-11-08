@@ -1,0 +1,6 @@
+[AR/SR/Story/Defects/CR]:Defects
+[BugFix]:CmakeLists.txt分模块创建
+[FeatureAdd]:生成安全函数动态库和静态库
+[CodeReview]:NA
+[ModifyDesc]:项目完善
+[Author/ID]:stone/lldao9527
